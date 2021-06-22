@@ -4,7 +4,7 @@ How to run the code:
 Values for [heuristic]: None, CG, DG, WDG
 
 Example:
-	python run_experiments.py --instance custominstances/1.txt --solver CBS --heuristic DG
+	'''python run_experiments.py --instance custominstances/1.txt --solver CBS --heuristic DG'''
 
 	This means running instance 1 with DG heuristic.
 
